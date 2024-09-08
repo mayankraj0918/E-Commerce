@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "E-Commerce",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E-Commerce"
+	}
+}
